@@ -1,0 +1,20 @@
+@font-face{
+    font-family: farsi ;
+    src: url(../384.Font.Farsi/Yagut.ttf);
+
+}
+
+*{
+    direction: rtl;
+    font-family: farsi;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-size: 16px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
